@@ -1,0 +1,11 @@
+.change {
+    color: lightblue;
+    font-size: 100px;
+    border: 10px solid black;    /* to add border we have to add 'solid' before the color */
+}
+
+.change1 {
+    color: purple;
+    font-size: 70px;
+    border: 10px solid plum;
+}
